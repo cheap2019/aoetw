@@ -72,7 +72,7 @@
               >、<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、<nuxt-link
                 to="/civs/Vikings"
                 >維京</nuxt-link
-              >。
+              >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>。
             </div>
           </div>
         </div>
@@ -88,7 +88,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、<nuxt-link
                 to="/civs/Celts"
                 >塞爾特</nuxt-link
-              >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
+              >、<nuxt-link
                 to="/civs/Ethiopians"
                 >衣索比亞</nuxt-link
               >、<nuxt-link to="/civs/Goths">哥德</nuxt-link>、<nuxt-link
@@ -126,13 +126,24 @@
             </li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
+             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>
               <nuxt-link to="/civs/Incas">印加</nuxt-link>:可以研發印刷技術了。
             </li>
           </ul>
+          
+                    <h3>
+                                 
+            <em><nuxt-link>決定版</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>:可以研發印刷技術了。
+            </li>
+          </ul>
+          
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
